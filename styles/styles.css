@@ -1,0 +1,107 @@
+
+body {
+    font-family: 'Montserrat',
+    sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #f5f7fa;
+    width: 1200;
+    margin: 0;
+}
+
+.main_content {
+    background-color: #fff;
+}
+
+.about {
+}
+
+.project {
+
+}
+
+.project_title {
+    
+}
+
+.work {
+
+}
+
+.education {
+
+}
+
+.sidebar { 
+    background-color: #1e2939;
+    padding-top: 40px;
+    width: 370px
+}
+
+.foto {
+    width: 370px;
+    margin-bottom: 50px;    
+}
+
+.sidebar_title {
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.contacts,
+.tech_skils,
+.soft_skils {
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+
+.contacts {
+    margin-bottom: 50px;
+}
+
+.contact_type {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+.contact_link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    opacity: 0.5;
+}
+
+.tech_skils_list {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding: 0px;
+    margin-left: 17px;
+}
+
+.tech-skils-item {
+    color: #fb6d3a;
+}
+
+.tech-skils-text {
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
